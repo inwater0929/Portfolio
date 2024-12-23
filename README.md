@@ -2,8 +2,7 @@
 
 ## 工作坊
 - **2024/11/26-2024/12/14**
-  - **資料洞察傳遞 - 使用 SQL**
-  - 實體工作坊 (作品：[ccclub前哨站 OPS-2.pdf](https://github.com/inwater0929/Portfolio/blob/main/ccclub%E5%89%8D%E5%93%A8%E7%AB%99%20OPS-2.pdf))
+  - 資料洞察傳遞 - 使用 SQL 實體工作坊 (作品：[ccclub前哨站 OPS-2.pdf](https://github.com/inwater0929/Portfolio/blob/main/ccclub%E5%89%8D%E5%93%A8%E7%AB%99%20OPS-2.pdf))
 
 ## 企業參訪
 - **2024/12/04**
