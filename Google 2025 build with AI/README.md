@@ -1,28 +1,17 @@
-# 成果與進修記錄
+# Build with AI 2025 課程筆記
 
-## 工作坊
-- **2024/11/26-2024/12/14**  - ccClub 2024 實體工作坊【資料洞察傳遞 - 使用SQL】 (作品：[ccclub前哨站 OPS-2.pdf](https://github.com/inwater0929/Portfolio/blob/main/ccclub%E5%89%8D%E5%93%A8%E7%AB%99%20OPS-2.pdf))
-- **2025/11/26-2025/12/14**  - Google Build with AI (上課筆記())
+## Build with AI 2025 - Taipei #1 (2/11)
+- Gemini 2.0 Flash 介紹：基於 Gemini 1.5 Pro，速度更快、回應品質更佳，並具備新輸出模式
+- Google Gen AI SDK：動手實測最新 AI 功能，學習如何在應用程式中整合 Gemini 2.0 Flash
 
-## 企業參訪
-- **2024/12/04**
-  - LINE Taiwan 企業參訪
+Get Started with the Multimodal Live API
+open colab in vertexAI>Notebook>colab enterprise>import>url>貼github上的jupyterNB
+程式碼來源：https://goo.gle/vertex-ai-cookbook 選Intro to Gemini 2.0 Flash與Get Started with the Multimodal Live API
+Intro to Gemini 2.0 Flash(Option 2. Use a Vertex AI API Key (Express Mode)略過)
+監測使用狀況：APIs&Services>Enabled APIs&Services
 
-## 活動
-- 2024/11/30
-    - DevFest Taipei 2024
-    
-## Google 證書
-- **2025/02/24**  - Level 1: App Dev and Deployment
-- **2025/02/17**  - App Building with AppSheet
-- **2025/02/15**  - Introduction to Image Generation
-- **2025/02/15**  - Introduction to Vertex AI Studio
-- **2025/01/02**  - Introduction to Data Analytics on Google Cloud
-- **2024/12/27**  - Professional Machine Learning Engineer
-- **2024/12/27**  - Gemini for Data Scientists and Analysts
-- **2024/11/06**  - Prompt Design in Vertex AI
-- **2024/11/03**  - Responsible AI: Applying AI Principles with Google Cloud
-- **2024/11/02**  - Introduction to Responsible AI
-- **2024/11/02**  - Introduction to Large Language Models
-- **2024/11/02**  - Introduction to Generative AI
-- **2024/10/17**  - Derive Insights from BigQuery Data
+## Build with AI 2025 - Taipei #2 (2/25)
+🔹 講師：高見龍
+🔹 題目：讓 AI 客服機器人不再瞎掰！讓 Gemini 和 n8n 幫你正經回答問題！
+[上課教材](https://5xcampus.notion.site/Build-With-AI-Taipei-1a4df074dc7f80ebb256e60e52b260ed))
+[執行步驟](https://github.com/inwater0929/Portfolio/blob/main/Google-2025build%20with%20AI/20250225%20build%20with%20AI%20%232.pdf)
