@@ -23,7 +23,7 @@
 **🔹 講師：高見龍**  
 
 - **[上課教材](https://5xcampus.notion.site/Build-With-AI-Taipei-1a4df074dc7f80ebb256e60e52b260ed)**
-- **[執行步驟](https://github.com/inwater0929/Portfolio/blob/main/Google-2025build%20with%20AI/20250225%20build%20with%20AI%20%232.pdf)**
+- **[執行步驟](https://github.com/inwater0929/Portfolio/blob/main/Google%202025%20build%20with%20AI/20250225%20build%20with%20AI%20%232.pdf)**
 
 ---
 
